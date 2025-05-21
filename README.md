@@ -16,6 +16,8 @@ This repository contains my personal notes and code examples from learning **Mac
 <!-- START_COLAB -->
 ## 🔗 Google Colab Notebooks
 
+Click below to view and run each notebook in Google Colab:
+
 | Topic | Link |
 |-------|------|
 | NumPy | [ml_0000_numpy](https://colab.research.google.com/drive/16E1k_076ChmLHKW4ZGuFUZtRJ_CXYsTU?usp=sharing) |
