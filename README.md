@@ -29,6 +29,7 @@ Click below to view and run each notebook in Google Colab:
 | Evaluation Metrics | [ml_0004_clustering_classification_metrics](https://colab.research.google.com/drive/1hPwMVDZULtd7QM4PebiQhL6puVsv3BWx?usp=sharing) |
 | Dataset Analysis | [ml_0005_analyze_datasets](https://colab.research.google.com/drive/18BVTWCuEkwZQx9t5A9S0YuQN3taeXvKR?usp=sharing) |
 | Linear Regression (from scratch) | [ml_0006_linear_regression](https://colab.research.google.com/drive/1DJ6RPzPFPS0kA8tKMdM_cXpg_uXP0Cmh?usp=sharing) |
+| Logistic Regression | [ml_0007_logistic_regression](https://colab.research.google.com/drive/1sr9eQJ-6MspCCF825zny6XA7aVngS7iQ?usp=sharing) |
 <!-- END_COLAB -->
 
 ## 🚀 Goal
