@@ -31,6 +31,8 @@ Click below to view and run each notebook in Google Colab:
 | Linear Regression (from scratch) | [ml_0006_linear_regression](https://colab.research.google.com/drive/1DJ6RPzPFPS0kA8tKMdM_cXpg_uXP0Cmh?usp=sharing) |
 | Logistic Regression | [ml_0007_logistic_regression](https://colab.research.google.com/drive/1sr9eQJ-6MspCCF825zny6XA7aVngS7iQ?usp=sharing) |
 | Decision Tree & Random Forest | [ml_0008_decision_tree_random_forest](https://colab.research.google.com/drive/16B6d4BhSacYkdjkShZT77qP2fKTWZv9S?usp=sharing) |
+| Analysis Rossmann Dataset | [ml_0009_explore_Rossmann_dataset](https://colab.research.google.com/drive/1JApe88oyVR3fX5hietKT842zz3G498I-?usp=sharing) |
+| How to Approach ML Projects | [ml_0009_how_to_approach_ml_project](https://colab.research.google.com/drive/1YRwNsBJ6yYOYdRSA_ZV7LgfxgZrNll64?usp=sharing) |
 <!-- END_COLAB -->
 
 ## 🚀 Goal
