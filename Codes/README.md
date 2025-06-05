@@ -19,3 +19,4 @@ Click below to view and run each notebook in Google Colab:
 | Analysis Rossmann Dataset | [ml_0009_explore_Rossmann_dataset](https://colab.research.google.com/drive/1JApe88oyVR3fX5hietKT842zz3G498I-?usp=sharing) |
 | How to Approach ML Projects | [ml_0009_how_to_approach_ml_project](https://colab.research.google.com/drive/1YRwNsBJ6yYOYdRSA_ZV7LgfxgZrNll64?usp=sharing) |
 | Gradient Boosting Machine | [ml_0010_XGBoost](https://colab.research.google.com/drive/1l-WYvbW87MjYV_j0Sp4csrolaKSDNMLA?usp=sharing) |
+| Unsupervised Learning | [ml_0011_clustering_dimensionality_reduction](https://colab.research.google.com/drive/1IDSQVAUGfTaomEZrc1QcwAFL9ozfz5SC?usp=sharing) |
