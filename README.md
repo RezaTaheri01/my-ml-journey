@@ -35,6 +35,7 @@ Click below to view and run each notebook in Google Colab:
 | How to Approach ML Projects | [ml_0009_how_to_approach_ml_project](https://colab.research.google.com/drive/1YRwNsBJ6yYOYdRSA_ZV7LgfxgZrNll64?usp=sharing) |
 | Gradient Boosting Machine | [ml_0010_XGBoost](https://colab.research.google.com/drive/1l-WYvbW87MjYV_j0Sp4csrolaKSDNMLA?usp=sharing) |
 | Unsupervised Learning | [ml_0011_clustering_dimensionality_reduction](https://colab.research.google.com/drive/1IDSQVAUGfTaomEZrc1QcwAFL9ozfz5SC?usp=sharing) |
+| NYC Taxi Fare Prediction | [ml_0012_NYC_taxi_fare_prediction](https://colab.research.google.com/drive/1rdI0pQm0H-mYbk_TNiaBFQRLAXu9sNOj?usp=sharing) |
 <!-- END_COLAB -->
 
 ## 🚀 Goal
