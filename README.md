@@ -4,14 +4,18 @@ This repository contains my personal notes and code examples from learning **Mac
 
 ## 📚 Topics Covered
 
-- 📊 **NumPy** – Arrays, vectorized operations  
-- 🐼 **Pandas** – Data manipulation and analysis  
-- 📈 **Matplotlib** – Data visualization  
-- 🧮 **Regression** – Linear, polynomial  
-- 🧪 **Classification** – Logistic regression, k-NN, etc.  
-- 🧩 **Clustering** – K-Means, DBSCAN, hierarchical  
-- 🧰 **Scikit-learn** – Model training, evaluation, pipelines  
-- 📊 **Data Analysis** – EDA, dataset insights, metrics
+- 📊 NumPy – Arrays, vectorized operations
+- 🐼 Pandas – Data manipulation and analysis
+- 📈 Matplotlib – Data visualization
+- 🧪 Classification – Logistic regression, k-NN, decision trees, random forest, ...
+- 🧮 Regression – Linear (including from scratch), polynomial, decision trees, random forest, ...
+- 🧩 Clustering & Unsupervised Learning – K-Means, DBSCAN, hierarchical, dimensionality reduction
+- 📐 Evaluation Metrics – Classification & clustering metrics
+- 📊 Data Analysis – EDA, dataset insights
+- 🧰 Scikit-learn – Model training, evaluation, pipelines
+- 🚕 Project Work – NYC taxi fare prediction, Rossmann sales analysis
+- ⚙️ Advanced Models – Gradient Boosting (XGBoost)
+- 🧠 ML Workflow – How to approach machine learning projects
 
 <!-- START_COLAB -->
 ## 🔗 Google Colab Notebooks
