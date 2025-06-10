@@ -13,7 +13,7 @@ This repository contains my personal notes and code examples from learning **Mac
 - 📐 Evaluation Metrics – Classification & clustering metrics
 - 📊 Data Analysis – EDA, dataset insights
 - 🧰 Scikit-learn – Model training, evaluation, pipelines
-- 🚕 Project Work – NYC taxi fare prediction, Rossmann sales analysis
+- 🚕 Project Work – NYC taxi fare prediction, Rossmann sales prediction/analysis
 - ⚙️ Advanced Models – Gradient Boosting (XGBoost)
 - 🧠 ML Workflow – How to approach machine learning projects
 
