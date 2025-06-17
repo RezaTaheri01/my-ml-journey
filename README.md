@@ -40,6 +40,7 @@ Click below to view and run each notebook in Google Colab:
 | Gradient Boosting Machine | [ml_0010_XGBoost](https://colab.research.google.com/drive/1l-WYvbW87MjYV_j0Sp4csrolaKSDNMLA?usp=sharing) |
 | Unsupervised Learning | [ml_0011_clustering_dimensionality_reduction](https://colab.research.google.com/drive/1IDSQVAUGfTaomEZrc1QcwAFL9ozfz5SC?usp=sharing) |
 | NYC Taxi Fare Prediction | [ml_0012_NYC_taxi_fare_prediction](https://colab.research.google.com/drive/1rdI0pQm0H-mYbk_TNiaBFQRLAXu9sNOj?usp=sharing) |
+| Spam Email Detection | [ml_0013_spam_email_detection](https://colab.research.google.com/drive/1rJ2lD1QbZafVXsRtvv8yXBMXAl_Ozxrx?usp=sharing) |
 <!-- END_COLAB -->
 
 ## 🚀 Goal
