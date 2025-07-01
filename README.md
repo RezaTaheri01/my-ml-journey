@@ -32,7 +32,7 @@ Click below to view and run each notebook in Google Colab:
 | Clustering | [ml_0003_clustering](https://colab.research.google.com/drive/15wTSpPNQk__KU0bDUhmSkpFgxOEEWNVz?usp=sharing) |
 | Evaluation Metrics | [ml_0004_clustering_classification_metrics](https://colab.research.google.com/drive/1hPwMVDZULtd7QM4PebiQhL6puVsv3BWx?usp=sharing) |
 | Dataset Analysis | [ml_0005_analyze_datasets](https://colab.research.google.com/drive/18BVTWCuEkwZQx9t5A9S0YuQN3taeXvKR?usp=sharing) |
-| Linear Regression (from scratch) | [ml_0006_linear_regression](https://colab.research.google.com/drive/1DJ6RPzPFPS0kA8tKMdM_cXpg_uXP0Cmh?usp=sharing) |
+| Linear Regression (Complete) | [ml_0006_linear_regression](https://colab.research.google.com/drive/1DJ6RPzPFPS0kA8tKMdM_cXpg_uXP0Cmh?usp=sharing) |
 | Logistic Regression | [ml_0007_logistic_regression](https://colab.research.google.com/drive/1sr9eQJ-6MspCCF825zny6XA7aVngS7iQ?usp=sharing) |
 | Decision Tree & Random Forest | [ml_0008_decision_tree_random_forest](https://colab.research.google.com/drive/16B6d4BhSacYkdjkShZT77qP2fKTWZv9S?usp=sharing) |
 | Analysis Rossmann Dataset | [ml_0009_explore_Rossmann_dataset](https://colab.research.google.com/drive/1JApe88oyVR3fX5hietKT842zz3G498I-?usp=sharing) |
@@ -41,6 +41,7 @@ Click below to view and run each notebook in Google Colab:
 | Unsupervised Learning | [ml_0011_clustering_dimensionality_reduction](https://colab.research.google.com/drive/1IDSQVAUGfTaomEZrc1QcwAFL9ozfz5SC?usp=sharing) |
 | NYC Taxi Fare Prediction | [ml_0012_NYC_taxi_fare_prediction](https://colab.research.google.com/drive/1rdI0pQm0H-mYbk_TNiaBFQRLAXu9sNOj?usp=sharing) |
 | Spam Email Detection | [ml_0013_spam_email_detection](https://colab.research.google.com/drive/1rJ2lD1QbZafVXsRtvv8yXBMXAl_Ozxrx?usp=sharing) |
+| Linear Regression From Scratch | [ml_0014_linear_regression_from_scratch](https://colab.research.google.com/drive/1wQUt6NRW4L8q5paUzy8optocwTXJIZ-4?usp=sharing) |
 <!-- END_COLAB -->
 
 ## 🚀 Goal
