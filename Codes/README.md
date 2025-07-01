@@ -23,5 +23,7 @@ Click below to view and run each notebook in Google Colab:
 | NYC Taxi Fare Prediction | [ml_0012_NYC_taxi_fare_prediction](https://colab.research.google.com/drive/1rdI0pQm0H-mYbk_TNiaBFQRLAXu9sNOj?usp=sharing) |
 | Spam Email Detection | [ml_0013_spam_email_detection](https://colab.research.google.com/drive/1rJ2lD1QbZafVXsRtvv8yXBMXAl_Ozxrx?usp=sharing) |
 | Linear Regression From Scratch | [ml_0014_linear_regression_from_scratch](https://colab.research.google.com/drive/1wQUt6NRW4L8q5paUzy8optocwTXJIZ-4?usp=sharing) |
+| Image Classification With SVC & XGBoost | [ml_0015_image_classification_svc_xgb](https://colab.research.google.com/drive/17-DsrHRyyvuH5oDdfXTEcpPHUNc9G4YN?usp=sharing) |
+
 
 
