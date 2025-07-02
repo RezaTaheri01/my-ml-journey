@@ -26,6 +26,7 @@ Click below to view and run each notebook in Google Colab:
 |-------|------|
 | NumPy | [ml_0000_numpy](https://colab.research.google.com/drive/16E1k_076ChmLHKW4ZGuFUZtRJ_CXYsTU?usp=sharing) |
 | Pandas | [ml_0000_pandas](https://colab.research.google.com/drive/1nmdrvlP9kqvLewRXlTyjHaHns4SVqr3r?usp=sharing) |
+| Pandas 100 Puzzles | [ml_0000_pandas_100_puzzles](https://colab.research.google.com/drive/1AlmdDmqve3E1a4Dz-Y7Rjg9WZrCCfGwB?usp=sharing) |
 | Matplotlib | [ml_0000_matplotlib](https://colab.research.google.com/drive/15_csCdfIujtBWNfyy5k-oQ5LWYyK-L9M?usp=sharing) |
 | Classification | [ml_0001_classifications](https://colab.research.google.com/drive/19nO1AZJzMQngRL_PH-e2a8ZKbzt0OwDV?usp=sharing) |
 | Regression | [ml_0002_regression](https://colab.research.google.com/drive/18hCO9Pqu4DQrs8i0GTezLLwMIZGsKkxm?usp=sharing) |
