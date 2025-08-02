@@ -51,27 +51,34 @@ edit_uri: ""
 
 nav:
   - Home: 'README.md'
-  - Matplotlib Basics: 'ml_0000_matplotlib.ipynb'
-  - Numpy Basics: 'ml_0000_numpy.ipynb'
-  - Pandas Basics: 'ml_0000_pandas.ipynb'
-  - Pandas 100 Puzzles: 'ml_0000_pandas_100_puzzles.ipynb'
-  - Classifications: 'ml_0001_classifications.ipynb'
-  - Regression: 'ml_0002_regression.ipynb'
-  - Clustering: 'ml_0003_clustering.ipynb'
-  - Clustering & Classification Metrics: 'ml_0004_clustering_classification_metrics_functional.ipynb'
-  - Analyze Datasets: 'ml_0005_analyze_datasets.ipynb'
-  - Linear Regression: 'ml_0006_linear_regression.ipynb'
-  - Logistic Regression: 'ml_0007_logistic_regression.ipynb'
-  - Decision Tree & Random Forest: 'ml_0008_decision_tree_random_forest.ipynb'
-  - Rossmann Dataset Exploration: 'ml_0009_a_explore_Rossmann_dataset.ipynb'
-  - ML Project Approach: 'ml_0009_b_how_to_approach_ml_project.ipynb'
-  - XGBoost: 'ml_0010_XGBoost.ipynb'
-  - Clustering & Dimensionality Reduction: 'ml_0011_clustering_dimensionality_reduction.ipynb'
-  - NYC Taxi Fare Prediction: 'ml_0012_NYC_taxi_fare_prediction.ipynb'
-  - Spam Email Detection: 'ml_0013_spam_email_detection.ipynb'
-  - Linear Regression from Scratch: 'ml_0014_linear_regression_from_scratch.ipynb'
-  - Image Classification (SVC & XGBoost): 'ml_0015_image_classification_svc_xgb.ipynb'
-  - Image Classification with YOLO: 'ml_0015_image_classification_Yolo.ipynb'
+
+  - Basics:
+    - Matplotlib Basics: 'ml_0000_matplotlib.ipynb'
+    - Numpy Basics: 'ml_0000_numpy.ipynb'
+    - Pandas Basics: 'ml_0000_pandas.ipynb'
+    - Pandas 100 Puzzles: 'ml_0000_pandas_100_puzzles.ipynb'
+
+
+  - Machine Learning:
+    - Classifications: 'ml_0001_classifications.ipynb'
+    - Regression: 'ml_0002_regression.ipynb'
+    - Clustering: 'ml_0003_clustering.ipynb'
+    - Clustering & Classification Metrics: 'ml_0004_clustering_classification_metrics_functional.ipynb'
+    - Analyze Datasets: 'ml_0005_analyze_datasets.ipynb'
+    - Linear Regression: 'ml_0006_linear_regression.ipynb'
+    - Logistic Regression: 'ml_0007_logistic_regression.ipynb'
+    - Decision Tree & Random Forest: 'ml_0008_decision_tree_random_forest.ipynb'
+    - Rossmann Dataset Exploration: 'ml_0009_a_explore_Rossmann_dataset.ipynb'
+    - ML Project Approach: 'ml_0009_b_how_to_approach_ml_project.ipynb'
+    - XGBoost: 'ml_0010_XGBoost.ipynb'
+    - Clustering & Dimensionality Reduction: 'ml_0011_clustering_dimensionality_reduction.ipynb'
+    - NYC Taxi Fare Prediction: 'ml_0012_NYC_taxi_fare_prediction.ipynb'
+    - Spam Email Detection: 'ml_0013_spam_email_detection.ipynb'
+    - Linear Regression from Scratch: 'ml_0014_linear_regression_from_scratch.ipynb'
+    - Image Classification (SVC & XGBoost): 'ml_0015_image_classification_svc_xgb.ipynb'
+
+  - Deep Learning:
+    - Image Classification with YOLO: 'ml_0015_image_classification_Yolo.ipynb'
 
 extra:
   social:
