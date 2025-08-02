@@ -31,8 +31,9 @@ jobs:
 
       - name: Prepare docs folder
         run: |
-          mkdir -p docs
-          cp -r Codes/* docs/
+            mkdir -p docs
+            cp Codes/*.ipynb docs/
+            cp -r Codes/assets docs/
 
       - name: Deploy to GitHub Pages
         run: mkdocs gh-deploy --force
