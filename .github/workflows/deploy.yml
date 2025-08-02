@@ -33,7 +33,7 @@ jobs:
       - name: Prepare docs folder
         run: |
           mkdir -p docs
-          cp Codes/* docs/
+          cp -r Codes/* docs/
 
       - name: Deploy to GitHub Pages
         run: mkdocs gh-deploy --force
