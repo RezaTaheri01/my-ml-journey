@@ -4,7 +4,6 @@ on:
   push:
     paths:
       - 'Codes/**'
-      - '.github/workflows/deploy.yml'
     branches:
       - main
 
