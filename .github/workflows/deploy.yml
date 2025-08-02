@@ -5,6 +5,7 @@ on:
     paths:
       - 'Codes/**'
       - '.github/workflows/deploy.yml'
+      - 'mkdocs.yml'
     branches:
       - main
 
