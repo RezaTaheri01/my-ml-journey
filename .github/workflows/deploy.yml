@@ -33,4 +33,5 @@ jobs:
       - name: Deploy to GitHub Pages
         run: mkdocs gh-deploy --force
 
+      - run: mkdir docs
       - run: cp Codes/* docs/ # copy all notebooks to docs folder
