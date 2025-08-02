@@ -1,0 +1,79 @@
+site_name: My ML Journey
+site_url: https://rezataheri01.github.io/my-ml-journey/
+site_description: My personal notes and code examples from learning Machine Learning with Python
+
+repo_url: https://github.com/RezaTaheri01/my-ml-journey
+repo_name: RezaTaheri01/my-ml-journey
+docs_dir: Codes
+
+theme:
+  name: material
+  logo: assets/ml_logo.png
+  favicon: assets/ml_logo.png
+  features:
+    - navigation.instant
+    - navigation.top
+  palette:
+    # Palette toggle for light mode
+    - scheme: black
+      primary: black
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: black
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+markdown_extensions:
+  - meta
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  
+plugins:
+ - mkdocs-jupyter:
+    include_source: True
+ - search
+ - social
+
+edit_uri: ""
+
+nav:
+  - Home: 'README.md'
+  - Matplotlib Basics: 'ml_0000_matplotlib.ipynb'
+  - Numpy Basics: 'ml_0000_numpy.ipynb'
+  - Pandas Basics: 'ml_0000_pandas.ipynb'
+  - Pandas 100 Puzzles: 'ml_0000_pandas_100_puzzles.ipynb'
+  - Classifications: 'ml_0001_classifications.ipynb'
+  - Regression: 'ml_0002_regression.ipynb'
+  - Clustering: 'ml_0003_clustering.ipynb'
+  - Clustering & Classification Metrics: 'ml_0004_clustering_classification_metrics_functional.ipynb'
+  - Analyze Datasets: 'ml_0005_analyze_datasets.ipynb'
+  - Linear Regression: 'ml_0006_linear_regression.ipynb'
+  - Logistic Regression: 'ml_0007_logistic_regression.ipynb'
+  - Decision Tree & Random Forest: 'ml_0008_decision_tree_random_forest.ipynb'
+  - Rossmann Dataset Exploration: 'ml_0009_a_explore_Rossmann_dataset.ipynb'
+  - ML Project Approach: 'ml_0009_b_how_to_approach_ml_project.ipynb'
+  - XGBoost: 'ml_0010_XGBoost.ipynb'
+  - Clustering & Dimensionality Reduction: 'ml_0011_clustering_dimensionality_reduction.ipynb'
+  - NYC Taxi Fare Prediction: 'ml_0012_NYC_taxi_fare_prediction.ipynb'
+  - Spam Email Detection: 'ml_0013_spam_email_detection.ipynb'
+  - Linear Regression from Scratch: 'ml_0014_linear_regression_from_scratch.ipynb'
+  - Image Classification (SVC & XGBoost): 'ml_0015_image_classification_svc_xgb.ipynb'
+  - Image Classification with YOLO: 'ml_0015_image_classification_Yolo.ipynb'
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/RezaTaheri01/my-ml-journey
