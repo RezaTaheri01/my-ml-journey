@@ -3,8 +3,8 @@ name: Deploy MkDocs
 on:
   push:
     paths:
-      - 'Codes/**'  # Trigger only when something in Codes/ changes
-      - '.github/workflows/deploy.yml'  # Optional: run if this workflow is updated
+      - 'Codes/**'
+      - '.github/workflows/deploy.yml'
     branches:
       - main
 
@@ -25,13 +25,15 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-          
+
       - name: Install dependencies
         run: |
           pip install -r req.txt
 
+      - name: Prepare docs folder
+        run: |
+          mkdir -p docs
+          cp Codes/* docs/
+
       - name: Deploy to GitHub Pages
         run: mkdocs gh-deploy --force
-
-      - run: mkdir docs
-      - run: cp Codes/* docs/ # copy all notebooks to docs folder
