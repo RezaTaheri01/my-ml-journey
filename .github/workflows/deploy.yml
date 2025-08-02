@@ -20,11 +20,6 @@ jobs:
         with:
           python-version: 3.12
 
-      - uses: actions/cache@v4
-        with:
-          key: ${{ github.ref }}
-          path: .cache
-
       - name: Install dependencies
         run: |
           pip install -r req.txt
