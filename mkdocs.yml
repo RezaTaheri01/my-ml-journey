@@ -4,7 +4,6 @@ site_description: My personal notes and code examples from learning Machine Lear
 
 repo_url: https://github.com/RezaTaheri01/my-ml-journey
 repo_name: RezaTaheri01/my-ml-journey
-docs_dir: Codes
 
 theme:
   name: material
