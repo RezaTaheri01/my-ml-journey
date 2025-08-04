@@ -19,9 +19,15 @@ This repository contains my personal notes and code examples from learning **Mac
 - ...
 
 <!-- START_COLAB -->
-## 🔗 Google Colab Notebooks
+# 🔗 Google Colab Notebooks
 
-Click below to view and run each notebook in Google Colab:
+## 📘 Table of Contents
+- [📂 Basics: Machine Learning](#basics-machine-learning)
+- [🔥 Deep Learning (PyTorch)](#deep-learning-pytorch)
+
+---
+
+## 📂 Basics: Machine Learning
 
 | Topic | Link |
 |-------|------|
@@ -46,6 +52,14 @@ Click below to view and run each notebook in Google Colab:
 | Linear Regression From Scratch | [ml_0014_linear_regression_from_scratch](https://colab.research.google.com/drive/1wQUt6NRW4L8q5paUzy8optocwTXJIZ-4?usp=sharing) |
 | Image Classification With SVC & XGBoost | [ml_0015_image_classification_svc_xgb](https://colab.research.google.com/drive/17-DsrHRyyvuH5oDdfXTEcpPHUNc9G4YN?usp=sharing) |
 | Image Classification With Yolo | [ml_0015_image_classification_Yolo](https://colab.research.google.com/drive/1JrMPvKrX_HxvmQu4nsYr9qO2xVDSrPkq?usp=sharing) |
+
+---
+
+## 🔥 Deep Learning (PyTorch)
+
+| Topic | Link |
+|-------|------|
+| PyTorch Fundamentals | [pytorch_0000_fundamentals](https://colab.research.google.com/drive/1CVDucX-yr6yf9LmiZNS12K-td2ZbeKDJ?usp=sharing) |
 <!-- END_COLAB -->
 
 ## 🚀 Goal
