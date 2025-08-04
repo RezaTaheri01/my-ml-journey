@@ -76,9 +76,11 @@ nav:
     - Spam Email Detection: 'ml_0013_spam_email_detection.ipynb'
     - Linear Regression from Scratch: 'ml_0014_linear_regression_from_scratch.ipynb'
     - Image Classification (SVC & XGBoost): 'ml_0015_image_classification_svc_xgb.ipynb'
+    - Image Classification with YOLO: 'ml_0015_image_classification_Yolo.ipynb'
 
   - Deep Learning:
-    - Image Classification with YOLO: 'ml_0015_image_classification_Yolo.ipynb'
+    - PyTorch:
+      - PyTorch Fundamentals: 'pytorch/pytorch_0000_fundamentals.ipynb'
 
 extra:
   social:

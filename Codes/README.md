@@ -1,7 +1,13 @@
 
-## 🔗 Google Colab Notebooks
+# 🔗 Google Colab Notebooks
 
-Click below to view and run each notebook in Google Colab:
+## 📘 Table of Contents
+- [📂 Basics: Machine Learning](#basics-machine-learning)
+- [🔥 Deep Learning (PyTorch)](#deep-learning-pytorch)
+
+---
+
+## 📂 Basics: Machine Learning
 
 | Topic | Link |
 |-------|------|
@@ -27,6 +33,10 @@ Click below to view and run each notebook in Google Colab:
 | Image Classification With SVC & XGBoost | [ml_0015_image_classification_svc_xgb](https://colab.research.google.com/drive/17-DsrHRyyvuH5oDdfXTEcpPHUNc9G4YN?usp=sharing) |
 | Image Classification With Yolo | [ml_0015_image_classification_Yolo](https://colab.research.google.com/drive/1JrMPvKrX_HxvmQu4nsYr9qO2xVDSrPkq?usp=sharing) |
 
+---
 
+## 🔥 Deep Learning (PyTorch)
 
-
+| Topic | Link |
+|-------|------|
+| PyTorch Fundamentals | [pytorch_0000_fundamentals](https://colab.research.google.com/drive/1CVDucX-yr6yf9LmiZNS12K-td2ZbeKDJ?usp=sharing) |
