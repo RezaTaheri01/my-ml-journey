@@ -2,8 +2,8 @@
 # 🔗 Google Colab Notebooks
 
 ## 📘 Table of Contents
-- [📂 Basics: Machine Learning](#basics-machine-learning)
-- [🔥 Deep Learning (PyTorch)](#deep-learning-pytorch)
+- [📂 Basics: Machine Learning](#-basics-machine-learning)
+- [🔥 Deep Learning (PyTorch)](#-deep-learning-pytorch)
 
 ---
 
