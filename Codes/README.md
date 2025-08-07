@@ -40,3 +40,5 @@
 | Topic | Link |
 |-------|------|
 | PyTorch Fundamentals | [pytorch_0000_fundamentals](https://colab.research.google.com/drive/1CVDucX-yr6yf9LmiZNS12K-td2ZbeKDJ?usp=sharing) |
+| PyTorch Workflow Fundamentals | [pytorch_0001_workflow_fundamentals](https://colab.research.google.com/drive/1F8QwEr3gJoP_h7ZtevCiS8sIuICQp4Q7?usp=sharing) |
+

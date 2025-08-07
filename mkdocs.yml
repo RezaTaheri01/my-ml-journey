@@ -81,6 +81,7 @@ nav:
   - Deep Learning:
     - PyTorch:
       - PyTorch Fundamentals: 'pytorch/pytorch_0000_fundamentals.ipynb'
+      - PyTorch Workflow Fundamentals: 'pytorch/pytorch_0001_workflow_fundamentals.ipynb'
 
 extra:
   social:
