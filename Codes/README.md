@@ -43,5 +43,6 @@
 | PyTorch Workflow Fundamentals | [pytorch_0001_workflow_fundamentals](https://colab.research.google.com/drive/1F8QwEr3gJoP_h7ZtevCiS8sIuICQp4Q7?usp=sharing) |
 | PyTorch Neural Network Classification | [pytorch_0002_nn_classification](https://colab.research.google.com/drive/17X0CWTBWebLtPmXHkCK1Q_Idh836jH6g?usp=sharing) |
 | PyTorch Computer Vision | [pytorch_0003_computer_vision](https://colab.research.google.com/drive/1S5_MtF93H1yQZ_fFpC0fbcq_MuclrS4M?usp=sharing) |
+| CNN on FashionMNIST | [pytorch_0004_FashionMNIST](https://colab.research.google.com/drive/1TQDNwKTa5omxvGUD179FmtXo4xOVIngz?usp=sharing) |
 
 
