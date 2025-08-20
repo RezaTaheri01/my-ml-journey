@@ -64,6 +64,7 @@ This repository contains my personal notes and code examples from learning **Mac
 | PyTorch Neural Network Classification | [pytorch_0002_nn_classification](https://colab.research.google.com/drive/17X0CWTBWebLtPmXHkCK1Q_Idh836jH6g?usp=sharing) |
 | PyTorch Computer Vision | [pytorch_0003_computer_vision](https://colab.research.google.com/drive/1S5_MtF93H1yQZ_fFpC0fbcq_MuclrS4M?usp=sharing) |
 | CNN on FashionMNIST | [pytorch_0004_FashionMNIST](https://colab.research.google.com/drive/1TQDNwKTa5omxvGUD179FmtXo4xOVIngz?usp=sharing) |
+| PyTorch Custom Datasets | [pytorch_0005_custom_dataset](https://colab.research.google.com/drive/1kamXxavTu6Oir4jBNTK-jRw15-B2pIC9?usp=sharing) |
 <!-- END_COLAB -->
 
 ## 🚀 Goal
