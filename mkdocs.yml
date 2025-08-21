@@ -84,8 +84,9 @@ nav:
       - PyTorch Workflow Fundamentals: 'pytorch/pytorch_0001_workflow_fundamentals.ipynb'
       - PyTorch Neural Network Classification: 'pytorch/pytorch_0002_nn_classification.ipynb'
       - PyTorch Computer Vision: 'pytorch/pytorch_0003_computer_vision.ipynb'
-      - PyTorch Computer Vision: 'pytorch/pytorch_0004_FashionMNIST.ipynb'
+      - PyTorch FashionMNIST: 'pytorch/pytorch_0004_FashionMNIST.ipynb'
       - PyTorch Custom Datasets: 'pytorch/pytorch_0005_custom_dataset.ipynb'
+      - PyTorch Food 101: 'pytorch/pytorch_0006_Food_101.ipynb'
 
 extra:
   social:
