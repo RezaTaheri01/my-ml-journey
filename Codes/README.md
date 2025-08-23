@@ -46,6 +46,7 @@
 | CNN on FashionMNIST | [pytorch_0004_FashionMNIST](https://colab.research.google.com/drive/1TQDNwKTa5omxvGUD179FmtXo4xOVIngz?usp=sharing) |
 | PyTorch Custom Datasets | [pytorch_0005_custom_dataset](https://colab.research.google.com/drive/1kamXxavTu6Oir4jBNTK-jRw15-B2pIC9?usp=sharing) |
 | PyTorch Food 101 Transfer Learning | [pytorch_0006_Food_101](https://colab.research.google.com/drive/1RXc3_LRf-68eBoCFr3ffE7BUTjlySfIY?usp=sharing) |
+| PyTorch Going Modular | [pytorch_0007_going_modular](https://colab.research.google.com/drive/1PgEHbCcWz-kYGI3mfYjrNcU8zKnZf-Po?usp=sharing) |
 
 
 

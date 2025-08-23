@@ -87,6 +87,7 @@ nav:
       - PyTorch FashionMNIST: 'pytorch/pytorch_0004_FashionMNIST.ipynb'
       - PyTorch Custom Datasets: 'pytorch/pytorch_0005_custom_dataset.ipynb'
       - PyTorch Food 101: 'pytorch/pytorch_0006_Food_101.ipynb'
+      - PyTorch Going Modular: 'pytorch/pytorch_0007_going_modular.ipynb'
 
 extra:
   social:
