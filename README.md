@@ -16,7 +16,7 @@ This repository contains my personal notes and code examples from learning **Mac
 - 🚕 Project Work – NYC taxi fare prediction, Rossmann sales prediction/analysis
 - ⚙️ Advanced Models – Gradient Boosting (XGBoost)
 - 🧠 ML Workflow – How to approach machine learning projects
-- ...
+- 🔥 PyTorch - Building deep learning models
 
 <!-- START_COLAB -->
 # 🔗 Google Colab Notebooks
