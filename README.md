@@ -67,6 +67,7 @@ This repository contains my personal notes and code examples from learning **Mac
 | PyTorch Custom Datasets | [pytorch_0005_custom_dataset](https://colab.research.google.com/drive/1kamXxavTu6Oir4jBNTK-jRw15-B2pIC9?usp=sharing) |
 | PyTorch Food 101 Transfer Learning | [pytorch_0006_Food_101](https://colab.research.google.com/drive/1RXc3_LRf-68eBoCFr3ffE7BUTjlySfIY?usp=sharing) |
 | PyTorch Going Modular | [pytorch_0007_going_modular](https://colab.research.google.com/drive/1PgEHbCcWz-kYGI3mfYjrNcU8zKnZf-Po?usp=sharing) |
+| PyTorch Transfer Learning | [pytorch_0008_transfer_learning](https://colab.research.google.com/drive/1kRR5XFrlJG_JPGmTw3epH6dIz2dZM1lk?usp=sharing) |
 <!-- END_COLAB -->
 
 ## 🚀 Goal
