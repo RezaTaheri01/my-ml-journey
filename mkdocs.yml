@@ -88,6 +88,7 @@ nav:
       - PyTorch Custom Datasets: 'pytorch/pytorch_0005_custom_dataset.ipynb'
       - PyTorch Food 101: 'pytorch/pytorch_0006_Food_101.ipynb'
       - PyTorch Going Modular: 'pytorch/pytorch_0007_going_modular.ipynb'
+      - PyTorch Transfer Learning: 'pytorch/pytorch_0008_transfer_learning.ipynb'
 
 extra:
   social:
