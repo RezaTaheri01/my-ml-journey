@@ -89,7 +89,7 @@ nav:
       - PyTorch Food 101: 'pytorch/pytorch_0006_Food_101.ipynb'
       - PyTorch Going Modular: 'pytorch/pytorch_0007_going_modular.ipynb'
       - PyTorch Transfer Learning: 'pytorch/pytorch_0008_transfer_learning.ipynb'
-      - Pytorch COVID-19 Radiography: 'pytorch/pytorch_0009_COVID-19_radiography.ipynb'
+      - Pytorch COVID-19 Radiography: 'pytorch/pytorch_0009_COVID_19_radiography.ipynb'
 
 extra:
   social:
